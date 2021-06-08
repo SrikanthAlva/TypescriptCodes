@@ -1,2 +1,2 @@
 # TypescriptCodes
-My Typescript Codes
+My Typescript Codes and Samples
